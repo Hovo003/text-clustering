@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Order Cancellation Requests",
+    "description": "Customer queries about canceling their orders.",
+    "count": 350
+  },
+  {
+    "name": "Order Modification Requests",
+    "description": "Customer inquiries about modifying their existing orders, such as adding, removing, or changing items.",
+    "count": 100
+  },
+  {
+    "name": "Other Requests",
+    "description": "Miscellaneous customer support queries that do not fit into the categories above, such as questions about order status, shipping, or returns.",
+    "count": 50
+  },
+  {
+    "name": "Editing Orders",
+    "description": "[Customers are seeking assistance in editing their orders, including adding, removing, or swapping items.]",
+    "count": 155
+  },
+  {
+    "name": "Correcting Purchases",
+    "description": "[Customers need help correcting mistakes in their purchases, such as removing or changing items.]",
+    "count": 93
+  },
+  {
+    "name": "Updating Orders",
+    "description": "[Customers want to know how to update their orders, often due to changes in their delivery address.]",
+    "count": 86
+  },
+  {
+    "name": "Deleting Items from Orders",
+    "description": "[Customers are trying to delete one or more items from their orders and need assistance doing so.]",
+    "count": 64
+  },
+  {
+    "name": "Adding Items to Orders",
+    "description": "[Customers want to add items to their existing orders and are looking for guidance on how to do this.]",
+    "count": 53
+  },
+  {
+    "name": "Swapping Items in Orders",
+    "description": "[Customers want to swap one item for another in their order and need help completing this process.]",
+    "count": 44
+  },
+  {
+    "name": "General Questions about Changes to Orders",
+    "description": "[Customers have general questions about making changes to their orders, such as whether it's possible or how to go about it.]",
+    "count": 39
+  },
+  {
+    "name": "Modifying Purchases",
+    "description": "[Customers need help modifying their purchases, which can include editing, updating, or correcting them.]",
+    "count": 16
+  },
+  {
+    "name": "Other Issues",
+    "description": "[Customers have miscellaneous issues not covered by the other clusters, such as problems with the website or issues with their account.]",
+    "count": 11
+  },
+  {
+    "name": "Modifying Shipping Address",
+    "description": "[Customers are seeking help in changing their shipping address.]",
+    "count": 150
+  },
+  {
+    "name": "Viewing Invoices",
+    "description": "[Customers are trying to locate and view their invoices.]",
+    "count": 250
+  },
+  {
+    "name": "Locating Specific Invoices",
+    "description": "[Customers are asking for help in finding a specific invoice, usually identified by an invoice number.]",
+    "count": 105
+  },
+  {
+    "name": "Finding Bills from a Person or Company",
+    "description": "[Customers want assistance in locating bills associated with a particular person or company.]",
+    "count": 50
+  },
+  {
+    "name": "Checking Invoices or Bills",
+    "description": "[Customers are seeking to view their invoices or bills, often without specifying a particular invoice or bill.]",
+    "count": 41
+  },
+  {
+    "name": "Seeing Payment Options",
+    "description": "[Customers want to know what payment methods are accepted or available.]",
+    "count": 40
+  },
+  {
+    "name": "Other Inquires",
+    "description": "[This cluster includes all other customer inquiries that do not fit into the above categories, such as questions about payment methods or other account-related issues.]",
+    "count": 40
+  },
+  {
+    "name": "Payment Method Inquiries",
+    "description": "[Customers are asking how to view or check the available payment methods.]",
+    "count": 150
+  },
+  {
+    "name": "Refund Policy Inquiries",
+    "description": "[Customers are asking about the refund policy, including how long refunds take and in what cases refunds are allowed.]",
+    "count": 200
+  },
+  {
+    "name": "Refund Policy Inquiry",
+    "description": "The customer is asking for information about the company's refund policy or how to request a refund.",
+    "count": 165
+  },
+  {
+    "name": "Consumer Claim / Complaint",
+    "description": "The customer wants to file a claim or complaint against the company for unsatisfactory service or product.",
+    "count": 205
+  },
+  {
+    "name": "Customer Support Contact Information",
+    "description": "The customer is looking for ways to contact customer support, such as phone numbers, email addresses, or hours of availability.",
+    "count": 180
+  },
+  {
+    "name": "Customer Service Hours Inquiry",
+    "description": "Questions related to the hours when customer service is available.",
+    "count": 64
+  },
+  {
+    "name": "Contacting Customer Support",
+    "description": "Questions about how to get in touch with customer support or assistance in doing so.",
+    "count": 201
+  },
+  {
+    "name": "Talking to a Live Agent",
+    "description": "Questions about speaking with a live agent or human operator.",
+    "count": 55
+  },
+  {
+    "name": "Free Customer Support Number",
+    "description": "Questions about the availability of a free customer support phone number.",
+    "count": 12
+  },
+  {
+    "name": "Email Address for Customer Support",
+    "description": "Questions about the email address for customer support.",
+    "count": 6
+  },
+  {
+    "name": "Toll-Free Number",
+    "description": "Questions about the availability of a toll-free number for customer support.",
+    "count": 5
+  },
+  {
+    "name": "Speaking with Customer Service",
+    "description": "Questions about how to speak with customer service or assistance in doing so.",
+    "count": 34
+  },
+  {
+    "name": "Checking Customer Service Hours",
+    "description": "Questions about how to check the hours when customer service is available.",
+    "count": 34
+  },
+  {
+    "name": "Contacting Customer Assistance",
+    "description": "Questions about how to get in touch with customer assistance or assistance in doing so.",
+    "count": 19
+  },
+  {
+    "name": "Getting in Touch with Customer Support",
+    "description": "Questions about how to get in touch with customer support or assistance in doing so.",
+    "count": 18
+  },
+  {
+    "name": "Assistance Speaking with Customer Service",
+    "description": "Questions about assistance in speaking with customer service.",
+    "count": 10
+  },
+  {
+    "name": "Customer Service Phone Number",
+    "description": "Questions about the phone number for customer service.",
+    "count": 7
+  },
+  {
+    "name": "Assistance Calling Customer Support",
+    "description": "Questions about assistance in calling customer support.",
+    "count": 6
+  },
+  {
+    "name": "Checking Customer Assistance Hours",
+    "description": "Questions about how to check the hours when customer assistance is available.",
+    "count": 4
+  },
+  {
+    "name": "Assistance Contacting Customer Service",
+    "description": "Questions about assistance in contacting customer service.",
+    "count": 3
+  },
+  {
+    "name": "Customer Support Working Hours",
+    "description": "Questions about the working hours of customer support.",
+    "count": 2
+  },
+  {
+    "name": "Assistance Seeing Customer Support Hours",
+    "description": "Questions about assistance in seeing the hours when customer support is available.",
+    "count": 1
+  },
+  {
+    "name": "Checking Customer Service Availability",
+    "description": "Questions about how to check the availability of customer service.",
+    "count": 1
+  },
+  {
+    "name": "Assistance Checking Customer Support Hours",
+    "description": "Questions about assistance in checking the hours when customer support is available.",
+    "count": 1
+  },
+  {
+    "name": "Speaking with a Human Agent",
+    "description": "[Customers are seeking help to communicate with a human agent or operator.]",
+    "count": 150
+  },
+  {
+    "name": "Creating or Opening Accounts",
+    "description": "[Customers need assistance in creating or opening various types of accounts.]",
+    "count": 200
+  },
+  {
+    "name": "Technical Difficulties",
+    "description": "[Customers are experiencing technical issues and need help resolving them.]",
+    "count": 50
+  },
+  {
+    "name": "Account Creation Inquiries",
+    "description": "[Customers are asking about how to create new accounts.]",
+    "count": 99
+  },
+  {
+    "name": "Account Deletion Inquiries",
+    "description": "[Customers are asking about how to delete or close their accounts.]",
+    "count": 251
+  },
+  {
+    "name": "Delivery Inquiries",
+    "description": "[Customers are asking about delivery options and whether they can order from specific locations.]",
+    "count": 150
+  },
+  {
+    "name": "Shipping Method Inquiries",
+    "description": "Questions pertaining to the available shipping methods and how to check them.",
+    "count": 148
+  },
+  {
+    "name": "Delivery Country Inquiries",
+    "description": "Questions asking if orders can be placed from specific countries.",
+    "count": 57
+  },
+  {
+    "name": "Delivery City Inquiries",
+    "description": "Questions asking if orders can be placed from specific cities.",
+    "count": 57
+  },
+  {
+    "name": "Order Placement Inquiries",
+    "description": "Questions asking about the possibility of placing an order from a specific location.",
+    "count": 50
+  },
+  {
+    "name": "General Shipping Inquiries",
+    "description": "Questions related to shipping but not specifically about methods, delivery locations, or order placement.",
+    "count": 20
+  },
+  {
+    "name": "Delivery Time Inquiries",
+    "description": "Questions asking about the estimated delivery time or shipping period.",
+    "count": 8
+  },
+  {
+    "name": "Shipping Time Inquiries",
+    "description": "Customers are asking for help in checking when their parcels or items will arrive.",
+    "count": 150
+  },
+  {
+    "name": "Account Modification Requests",
+    "description": "Customers are requesting assistance with changing or updating details on their accounts.",
+    "count": 450
+  },
+  {
+    "name": "Account Information Modification",
+    "description": "[Customers are seeking assistance in changing their account details.]",
+    "count": 55
+  },
+  {
+    "name": "Billing Inquiry",
+    "description": "[Customers are asking for help with downloading or mailing their bills.]",
+    "count": 295
+  },
+  {
+    "name": "Refund Request",
+    "description": "[Customers are inquiring about getting a refund for a purchase.]",
+    "count": 100
+  },
+  {
+    "name": "Requesting Refunds/Rebates/Reimbursements",
+    "description": "The customer is unsure how to initiate the process of receiving a refund, rebate, or reimbursement for a purchase.",
+    "count": 190
+  },
+  {
+    "name": "Canceling/Unsubscribing from Newsletters",
+    "description": "The customer needs help with canceling their subscription or unsubscribing from a company newsletter.",
+    "count": 160
+  },
+  {
+    "name": "Subscribing to Newsletters",
+    "description": "The customer is trying to sign up for a company newsletter but needs assistance with the process.",
+    "count": 55
+  },
+  {
+    "name": "Checking Newsletter Subscription Status",
+    "description": "The customer wants to know the status of their newsletter subscription or how to check it.",
+    "count": 30
+  },
+  {
+    "name": "Newsletter Subscription Inquiries",
+    "description": "Questions about subscribing to or unsubscribing from the company newsletter.",
+    "count": 134
+  },
+  {
+    "name": "Payment Issues",
+    "description": "Questions about problems with making payments or reporting payment errors.",
+    "count": 346
+  },
+  {
+    "name": "Ordering Assistance",
+    "description": "Questions about how to order products from the company.",
+    "count": 5
+  },
+  {
+    "name": "Purchasing Process Questions",
+    "description": "[Customers are asking for help on how to buy products.]",
+    "count": 301
+  },
+  {
+    "name": "Ordering Process Questions",
+    "description": "[Customers need assistance with placing orders.]",
+    "count": 83
+  },
+  {
+    "name": "Product Acquisition Questions",
+    "description": "[Customers are unsure about how to acquire or earn products.]",
+    "count": 73
+  },
+  {
+    "name": "Shopping Process Questions",
+    "description": "[Customers are asking for help with the shopping process in general.]",
+    "count": 45
+  },
+  {
+    "name": "Account Access Questions",
+    "description": "[Customers need help with retrieving or resetting their account access keys, passwords, or PINs.]",
+    "count": 141
+  },
+  {
+    "name": "Location Questions",
+    "description": "[Customers are asking where to perform various actions, such as buying, ordering, or earning products.]",
+    "count": 43
+  },
+  {
+    "name": "Other Questions",
+    "description": "[Customers have miscellaneous questions that don't fit into the other categories.]",
+    "count": 14
+  },
+  {
+    "name": "Forgotten User PIN/Password Recovery",
+    "description": "[Customers are unable to remember their PIN or password and seek assistance in recovering or resetting it.]",
+    "count": 150
+  },
+  {
+    "name": "Sign-up Issues",
+    "description": "[Customers are experiencing problems during the sign-up process and need help resolving issues related to account creation.]",
+    "count": 200
+  },
+  {
+    "name": "Sign-up Error Reporting",
+    "description": "Users are having trouble signing up and want to know how to report or notify of these issues.",
+    "count": 150
+  },
+  {
+    "name": "Leaving Feedback or Reviews",
+    "description": "Users need help leaving feedback, writing reviews, or submitting opinions about products, services, or the company in general.",
+    "count": 350
+  },
+  {
+    "name": "Shipping Address Setup",
+    "description": "Users are experiencing issues setting up or entering their shipping addresses and need assistance resolving these problems.",
+    "count": 149
+  },
+  {
+    "name": "Delivery Address Setup Issues",
+    "description": "[Customers are having trouble setting up or entering a new delivery address.]",
+    "count": 240
+  },
+  {
+    "name": "Submitting Delivery Address Problems",
+    "description": "[Customers need help submitting their delivery address or are encountering errors while doing so.]",
+    "count": 165
+  },
+  {
+    "name": "Shipping Address Setup Issues",
+    "description": "[Customers are facing difficulties setting up or entering a new shipping address.]",
+    "count": 132
+  },
+  {
+    "name": "Secondary Delivery/Shipping Address Setup Issues",
+    "description": "[Customers need assistance setting up a secondary delivery or shipping address.]",
+    "count": 123
+  },
+  {
+    "name": "Validation Issues with Delivery/Shipping Address",
+    "description": "[Customers are encountering issues with their delivery or shipping address being invalid.]",
+    "count": 80
+  },
+  {
+    "name": "Switching Account Types",
+    "description": "[Customers need help changing or switching to different account types, such as freemium, gold, platinum, or standard.]",
+    "count": 80
+  },
+  {
+    "name": "Account Type Change Inquiries",
+    "description": "Customers are asking how to change their account type or switch to a different account.",
+    "count": 125
+  },
+  {
+    "name": "Account Usage Questions",
+    "description": "Users are seeking help on using specific features of their current account type.",
+    "count": 50
+  },
+  {
+    "name": "Account Profile Assistance",
+    "description": "Customers need assistance with managing their account profiles, such as using or changing profiles.",
+    "count": 55
+  },
+  {
+    "name": "Order Status Inquiries",
+    "description": "Users are asking about the status of their orders, including estimated delivery times.",
+    "count": 252
+  },
+  {
+    "name": "Refund Inquiries",
+    "description": "[Customers are inquiring about the status of their refunds, often specifying the amount expected.]",
+    "count": 225
+  },
+  {
+    "name": "General Support Requests",
+    "description": "[Customers are asking for assistance with various issues, such as tracking orders or reimbursements, but without specifying the exact problem.]",
+    "count": 43
+  }
+]

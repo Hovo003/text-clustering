@@ -1,0 +1,17 @@
+"""
+You are an AI assistant tasked with analyzing a list of customer support queries and grouping them into relevant clusters.
+
+For each cluster, please include:
+- A descriptive title for the cluster
+- A one-sentence summary explaining the focus of the questions within this cluster
+- The number of questions contained in the cluster
+
+Please present your findings in this format:
+1. [Cluster Title]
+[One-sentence summary of the cluster.]
+Count: [Number of questions]
+
+Here is the list of customer support questions:
+{{QUESTIONS}}
+
+"""

@@ -1,0 +1,16 @@
+""" 
+You are an AI assistant. Cluster the following customer support questions into meaningful groups.
+
+For each group, return:
+- A short name (cluster title)
+- A one-sentence description of what this group of questions is about
+- A count of how many questions are in this group
+
+Return the response as plain text in this format:
+1. Cluster Title
+Description of the group.
+Count: X
+
+Here are the questions:
+{{QUESTIONS}}
+"""

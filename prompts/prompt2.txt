@@ -1,0 +1,16 @@
+"""
+As an AI language model, your task is to organize the following customer support inquiries into distinct categories.
+
+For each category, please provide:
+- A concise title summarizing the category
+- A brief, one-sentence explanation of the common theme among the questions
+- The total number of questions that fall into this category
+
+Format your response as follows:
+1. [Category Title]
+[Brief description of the category.]
+Count: [Number of questions]
+
+Below are the customer support questions:
+{{QUESTIONS}}
+"""

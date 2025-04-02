@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Cluster Title: Cancel Order",
+    "description": "These questions are from customers who want to cancel an order they have placed.",
+    "count": 350
+  },
+  {
+    "name": "Cluster Title: Modify Order",
+    "description": "These questions are from customers who want to modify an order they have placed, such as adding, removing, or swapping items.",
+    "count": 100
+  },
+  {
+    "name": "Cluster Title: Order Editing",
+    "description": "Questions related to modifying existing orders, including adding, removing, or swapping items.",
+    "count": 196
+  },
+  {
+    "name": "Cluster Title: Order Deletion",
+    "description": "Questions related to deleting items or entire orders.",
+    "count": 30
+  },
+  {
+    "name": "Cluster Title: Shipping Address Modification",
+    "description": "Questions related to changing or correcting the shipping address associated with an order.",
+    "count": 154
+  },
+  {
+    "name": "Cluster Title: Address Modification",
+    "description": "Questions about changing or updating the delivery or shipping address.",
+    "count": 190
+  },
+  {
+    "name": "Cluster Title: Early Termination Fees",
+    "description": "Questions about seeing or checking the early termination, withdrawal, or cancellation fees or penalties.",
+    "count": 260
+  },
+  {
+    "name": "Cluster Title: Invoice Locating",
+    "description": "Questions about finding, checking, or looking for invoices or bills from a specific person or company.",
+    "count": 190
+  },
+  {
+    "name": "Invoice Lookup Assistance",
+    "description": "Customers seeking help to find or view their invoices.",
+    "count": 350
+  },
+  {
+    "name": "Payment Method Inquiry",
+    "description": "Customers asking about accepted payment methods or how to check available payment options.",
+    "count": 100
+  },
+  {
+    "name": "Cluster Title: Inquiry about accepted payment methods",
+    "description": "Questions related to finding out the payment methods accepted by the company.",
+    "count": 250
+  },
+  {
+    "name": "Cluster Title: Inquiry about refund policy",
+    "description": "Questions related to the company's refund policy, including how long refunds take and under what circumstances refunds can be requested.",
+    "count": 1350
+  },
+  {
+    "name": "Cluster Title: Refund Policy Inquiries",
+    "description": "Questions from customers seeking clarification on the company's refund policy, including timeframes and eligibility criteria.",
+    "count": 150
+  },
+  {
+    "name": "Cluster Title: File a Claim or Complaint",
+    "description": "Customers expressing dissatisfaction with the company's products or services and seeking assistance with filing a claim or complaint.",
+    "count": 200
+  },
+  {
+    "name": "Cluster Title: Customer Support Contact Information",
+    "description": "Customers looking for information on how to contact customer support, including phone numbers, email addresses, and operating hours.",
+    "count": 100
+  },
+  {
+    "name": "Cluster Title: Hours of Availability",
+    "description": "Customers asking about the hours they can reach customer support or assistance.",
+    "count": 60
+  },
+  {
+    "name": "Cluster Title: Contact Customer Support",
+    "description": "Customers asking for help to contact or speak with customer support.",
+    "count": 54
+  },
+  {
+    "name": "Cluster Title: Talk to Agent",
+    "description": "Customers wanting to talk to a person, agent, or live agent.",
+    "count": 50
+  },
+  {
+    "name": "Cluster Title: Email or Phone Number",
+    "description": "Customers asking for email addresses or phone numbers for customer support.",
+    "count": 30
+  },
+  {
+    "name": "Cluster Title: Free Support",
+    "description": "Customers asking for free customer support or assistance.",
+    "count": 13
+  },
+  {
+    "name": "Cluster Title: Need Help",
+    "description": "Customers explicitly stating they need help with an issue.",
+    "count": 11
+  },
+  {
+    "name": "Cluster Title: Check Hours",
+    "description": "Customers asking how to check the hours of customer support.",
+    "count": 7
+  },
+  {
+    "name": "Cluster Title: Talk to Customer Service",
+    "description": "Customers wanting to talk to customer service specifically.",
+    "count": 6
+  },
+  {
+    "name": "Cluster Title: Assistance with Contacting",
+    "description": "Customers asking for assistance in contacting customer support.",
+    "count": 5
+  },
+  {
+    "name": "Cluster Title: Unhelpful Bot",
+    "description": "Customers expressing dissatisfaction with the bot and requesting to speak to a human.",
+    "count": 4
+  },
+  {
+    "name": "Cluster Title: Contact Assistance",
+    "description": "Customers asking to get in touch with customer assistance.",
+    "count": 3
+  },
+  {
+    "name": "Cluster Title: Talk to Live Agent",
+    "description": "Customers wanting to talk to a live agent specifically.",
+    "count": 2
+  },
+  {
+    "name": "Cluster Title: Speak with Human Agent",
+    "description": "Questions about how to speak with a human agent or operator.",
+    "count": 155
+  },
+  {
+    "name": "Cluster Title: Create Account",
+    "description": "Questions about how to create a new account or open a specific type of account.",
+    "count": 400
+  },
+  {
+    "name": "Cluster Title: Account Creation",
+    "description": "Questions related to creating a new account.",
+    "count": 105
+  },
+  {
+    "name": "Cluster Title: Account Deletion",
+    "description": "Questions related to deleting or closing an existing account.",
+    "count": 250
+  },
+  {
+    "name": "Cluster Title: Shipping Inquiries",
+    "description": "Questions related to shipping options, delivery methods, and order placement from specific locations.",
+    "count": 145
+  },
+  {
+    "name": "Shipping Method Inquiry",
+    "description": "Customers asking about the available shipping methods or how to check them.",
+    "count": 135
+  },
+  {
+    "name": "Delivery Country Inquiry",
+    "description": "Customers asking if orders can be placed from a specific country.",
+    "count": 42
+  },
+  {
+    "name": "Delivery City Inquiry",
+    "description": "Customers asking if orders can be placed from a specific city.",
+    "count": 58
+  },
+  {
+    "name": "Shipment Options Inquiry",
+    "description": "Customers asking for help to see what delivery options they have.",
+    "count": 38
+  },
+  {
+    "name": "Cluster Title: Shipping Inquiry",
+    "description": "Customers asking about the delivery time or shipping period of their order.",
+    "count": 230
+  },
+  {
+    "name": "Cluster Title: Account Editing",
+    "description": "Customers seeking help to edit or modify their account details.",
+    "count": 125
+  },
+  {
+    "name": "Cluster Title: Account Information Modification",
+    "description": "Questions related to changing or modifying personal information on different types of accounts.",
+    "count": 35
+  },
+  {
+    "name": "Cluster Title: Invoice Download Assistance",
+    "description": "Questions related to downloading invoices, including requests for help, inquiries about the download process, and lost invoice requests.",
+    "count": 315
+  },
+  {
+    "name": "Cluster Title: Refund Requests",
+    "description": "Questions related to requesting refunds or compensation for money paid for products or services.",
+    "count": 135
+  },
+  {
+    "name": "Cluster Title: Requesting Refunds/Rebates",
+    "description": "This group includes questions from customers who are unsure about how to request a refund or rebate, or who need assistance with the process.",
+    "count": 200
+  },
+  {
+    "name": "Cluster Title: Receiving Restitutions/Reimbursements",
+    "description": "This group encompasses questions from customers who want help in receiving restitutions or reimbursements for money they have paid.",
+    "count": 100
+  },
+  {
+    "name": "Cluster Title: Company Newsletter Subscription",
+    "description": "This group includes questions related to subscribing, unsubscribing, and receiving the company newsletter.",
+    "count": 50
+  },
+  {
+    "name": "Subscription Inquiries",
+    "description": "These questions are about subscribing or unsubscribing to the company newsletter.",
+    "count": 150
+  },
+  {
+    "name": "Payment Issues",
+    "description": "These questions are about problems with online payment or reporting errors with payment.",
+    "count": 350
+  },
+  {
+    "name": "Ordering Assistance",
+    "description": "These questions are about ordering a product or needing help to buy items.",
+    "count": 5
+  },
+  {
+    "name": "Purchase Questions",
+    "description": "Questions about how to make a purchase or order products.",
+    "count": 350
+  },
+  {
+    "name": "Password/PIN Recovery Questions",
+    "description": "Questions about resetting or recovering user account passwords or PIN codes.",
+    "count": 1350
+  },
+  {
+    "name": "Forgotten PIN/Password Recovery",
+    "description": "Customers who have forgotten their PIN or password and need help recovering or resetting it.",
+    "count": 173
+  },
+  {
+    "name": "Sign-Up Issues",
+    "description": "Customers who are experiencing issues with the sign-up process.",
+    "count": 177
+  },
+  {
+    "name": "Cluster Title: Sign-up Errors",
+    "description": "Questions related to experiencing issues during the sign-up process and seeking assistance on how to report or resolve these issues.",
+    "count": 150
+  },
+  {
+    "name": "Cluster Title: Leaving Feedback",
+    "description": "Questions related to leaving feedback, reviews, or comments about a product, service, or company, and seeking assistance on how to do so.",
+    "count": 200
+  },
+  {
+    "name": "Cluster Title: Shipping Address Issues",
+    "description": "Questions related to encountering problems while entering or setting up a shipping address, and seeking assistance on how to resolve these issues.",
+    "count": 50
+  },
+  {
+    "name": "Cluster Title: Delivery Address Setup Issues",
+    "description": "Customers are experiencing problems setting up or submitting their delivery addresses.",
+    "count": 255
+  },
+  {
+    "name": "Cluster Title: Shipping Address Validation Issues",
+    "description": "Customers are encountering validation errors when trying to set up or submit their shipping addresses.",
+    "count": 45
+  },
+  {
+    "name": "Cluster Title: Account Switching Issues",
+    "description": "Customers are having trouble switching to different account types or profiles.",
+    "count": 148
+  },
+  {
+    "name": "Account Change Inquiries",
+    "description": "These are questions from users who want to change their account type or category. They might be asking for help, instructions, or expressing confusion about the process.",
+    "count": 150
+  },
+  {
+    "name": "Account Usage Inquiries",
+    "description": "These are questions from users who need help using a specific account type or category. They might be asking for instructions, clarification, or troubleshooting assistance.",
+    "count": 30
+  },
+  {
+    "name": "Profile Usage Inquiries",
+    "description": "These are questions from users who need help using a specific profile within their account. They might be asking for instructions, clarification, or troubleshooting assistance.",
+    "count": 25
+  },
+  {
+    "name": "Order Status Inquiries",
+    "description": "These are questions from users who want to check the status of their order. They might be asking for instructions, clarification, or troubleshooting assistance.",
+    "count": 50
+  },
+  {
+    "name": "Order Status Inquiry",
+    "description": "Customers asking for help to check the current status or ETA of their order.",
+    "count": 225
+  },
+  {
+    "name": "Refund Inquiry",
+    "description": "Customers inquiring about the status of their refund.",
+    "count": 200
+  }
+]
